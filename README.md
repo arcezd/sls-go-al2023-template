@@ -1,6 +1,6 @@
 # go-al2023
 
-This is a sample template for Go on Amazon Linux 2 (AL2) - Below is a brief explanation of what we have generated for you:
+This is a sample template for Go on Amazon Linux 2023 - Below is a brief explanation of what this template includes
 
 ```bash
 .
@@ -149,3 +149,4 @@ Next, you can use the following resources to know more about beyond hello world 
 
 ## Useful links
 - [Amazon API Gateway - Working with HTTP APIs](https://docs.aws.amazon.com/apigateway/latest/developerguide/http-api.html)
+- [Comparing AL2 and Amazon Linux 2023](https://docs.aws.amazon.com/linux/al2023/ug/compare-with-al2.html)
